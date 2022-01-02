@@ -1,0 +1,167 @@
+
+body{
+    font-family: "Times New Roman";
+
+}
+#hero{
+    width: 100%;
+    height: 100em;
+    background: url("1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.cc {
+    position: relative;
+    top: 200%;
+
+    padding: 30px;
+    background: white;
+
+}
+#uncomfortable{
+    width: 100%;
+    height: 40em;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    background: #FAF0E6;
+   
+}
+#uncomfortable p{
+    margin-top: 40px;
+
+    font-size: 20px;
+    text-align: center;
+
+}
+#who h2{
+    font-family: URW Chancery L, cursive;
+}
+#who{
+    background-color: #FAF0E6;
+    height: 77em;
+    width: 100%;
+
+   
+}
+
+a.glo{
+    text-decoration: none;
+    margin: 10px 20px;
+    padding: 10px 30px;
+    position: relative;
+    border: 2px solid #FF1493;
+    border-radius: 10px;
+    color: #FF1493;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#img{
+    height: 700px;
+}
+#navbarNavAltMarkup{
+    color:#000000;
+}
+#who h1{
+    font-family: URW Chancery L, cursive;
+    font-size: 5vw;
+}
+#program{
+    width: 100%;
+    height: 80em;
+    background-color: #FAF0E6;
+
+}
+#program h1{
+    font-family: "Brush Script MT",Brush Script Std, cursive;
+
+
+}
+#program p {
+   
+    box-sizing: border-box;
+    width: 50%;
+    padding: 25px;
+    position: relative;
+    font-size: 20px;
+}
+
+
+a.gla{
+    color:#FF1493;
+    padding: 10px 20px;
+    width:150px;
+    text-decoration:none;
+    text-align:center;
+    display: block;
+    background-image: linear-gradient(to left,transparent,transparent 50%,#FFB6C1 50%,#FFC0CB);
+    background-position: 100% 0;
+    background-size: 200% 100%;
+    transition: all .25s ease-in;
+    font: 400 18px tahoma;
+    border: 1px solid #FF1493;
+    border-radius: 10px;
+}
+
+.double-border-button {
+    text-decoration: none;
+
+    margin: 10px 20px;
+    padding: 10px 30px;
+    position: relative;
+    border: 2px solid #FF1493;
+    border-radius: 10px;
+    color: #FF1493;
+    font-family: 'Montserrat', sans-serif;
+}
+.double-border-button:hover{
+    color: #FF1493;
+}
+
+#a{
+    text-align: center;
+    background-color: #FAF0E6;
+    width: 100%;
+
+}
+#a h2{
+    font-family: URW Chancery L, cursive;
+}
+#who i{
+    color: #FFB6C1  ;
+    font-size: 27px;
+}
+
+#a h5{
+    font-size: 30px;
+
+
+
+}
+#a i{
+    color: #FFB6C1;
+
+}
+#roe{
+    font-size: 25px;
+
+
+}
+footer a{
+    color: #000000;
+    margin-left: 10px;
+}
+
+.fot1{
+    margin-top: 20px;
+    background: #FAF0E6;
+}
+footer{
+    background-color: #808080;
+}
+
+
+
+
